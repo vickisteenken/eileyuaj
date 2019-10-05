@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaedohph.stormdesign.site/sitemap.xml
